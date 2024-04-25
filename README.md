@@ -9,7 +9,8 @@ Olá! Eu sou Glauco Sousa, um desenvolvedor back-end em busca da  minha primeira
 - 🚀 Objetivo: Aplicar meus conhecimentos, aprender, desenvolver minhas habilidades e alcançar meu sucesso profissional.
 
 ## Tecnologias mais utilizadas
-<img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/92b965b6-9c77-4e8c-9c75-9dc7d6532214" width="80" /> <img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/63712df6-c111-44ab-a2a5-0665ebc7282e" width="80" /> <img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/991c5715-1bbd-4bae-93d3-785262b87f26" width="80"> <img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/f9ccf89c-0879-4a1d-84b2-ddecf8e22349" width="80"/>
+<img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/92b965b6-9c77-4e8c-9c75-9dc7d6532214" width="80" /> <img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/63712df6-c111-44ab-a2a5-0665ebc7282e" width="80" /> <img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/991c5715-1bbd-4bae-93d3-785262b87f26" width="80">  <img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/ba653ef5-a7f2-4ce2-a619-3a8d657a7442" width="80"/>
+"<img src="https://github.com/gsousaaa/gsousaaa/assets/129014954/f9ccf89c-0879-4a1d-84b2-ddecf8e22349" width="80"/>
 <img  src="https://github.com/gsousaaa/gsousaaa/assets/129014954/fa2dcb8c-71fb-4589-9ac1-977459a13672" width="80"/>
 
 ## Linguagens, frameworks e ferramentas
