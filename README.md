@@ -1,10 +1,10 @@
 # Bem-vindo ao meu GitHub!
 
-Olá! Eu sou Glauco Sousa, um desenvolvedor back-end em busca da  minha primeira experiência profissional na área de desenvolvimento de software. Estou focado em aprender e crescer constantemente, e este repositório é uma amostra do meu trabalho e das tecnologias que venho explorando.
+Olá! Eu sou Glauco Sousa, um entusiasta do desenvolvimento de software. Estou focado em aprender e crescer constantemente, e este repositório é uma amostra do meu trabalho e das tecnologias que venho explorando.
 
 ## Sobre Mim
 
-- 💻 Estudante de T.I em busca de uma oportunidade profissional
+- 💻 Atuando como desenvolvedor Back-End
 - 🌱 Interesse em Desenvolvimento Web Fullstack/Back-end
 - 🚀 Objetivo: Aplicar meus conhecimentos, aprender, desenvolver minhas habilidades e alcançar meu sucesso profissional.
 
