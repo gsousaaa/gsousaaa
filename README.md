@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-Olá! Eu sou Glauco Sousa, um desenvolvedor de software focado no desenvolvimento back-end. Estou focado em aprender e crescer constantemente, e este repositório é uma amostra dos meus projetos e das tecnologias que venho explorando.
+Olá! Eu sou Glauco Sousa, um desenvolvedor de software focado em back-end. Estou focado em aprender e crescer constantemente, e este repositório é uma amostra dos meus projetos e das tecnologias que venho explorando.
 
 
 ## Linguagens, frameworks e ferramentas
